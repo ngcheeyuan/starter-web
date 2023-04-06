@@ -14,3 +14,7 @@ Simple test
 ## Notes
 
 ## Appendix
+
+##Copyright
+
+2014 Git.Training
